@@ -7,12 +7,12 @@
 
 ***briefly in the book by alfred lansing he explains how the margin of error was so small for worsley becuase reaching south georgia a small tiny landmark and destination where if they passed it even by a few miles they would surely died at sea while lost in the ocean.  south georgia was the only and last land until south america and so after the few weeks journey in the lifeboat the men would certainly survive months to south america if they passed south georgie.***
  
-I want to try to quantify and qualify the tremendous accomplishment for the james Caird to make the landing at south georgia.  in roughly 1000-1200 words, explain the complexity and challenge of navigating a small lifeboat; how worsley took sightings and the conditions required to take such sightings; how the weather and conditions challenged worsley taking sightings; the scope of the distance between Elephant Island to South Georgia island with the constant challenges; try to compare or illustrate this feat with a space shuttle going from earth to the moon with comparable sightings and course corrections; finally recap with a few quotes or references made by  navigational experts commenting on the accomplishment of Worsley successfully landing. 
- 
-before writing, let me know if there are any ambiquities or uncertainties in this task and prompt you would like me to clarify.  And before writing reiterate what you will write about in 3-4 sentences to make sure we are aligned.*** 
+***I want to try to quantify and qualify the tremendous accomplishment for the james Caird to make the landing at south georgia.  in roughly 1000-1200 words, explain the complexity and challenge of navigating a small lifeboat; how worsley took sightings and the conditions required to take such sightings; how the weather and conditions challenged worsley taking sightings; the scope of the distance between Elephant Island to South Georgia island with the constant challenges; try to compare or illustrate this feat with a space shuttle going from earth to the moon with comparable sightings and course corrections; finally recap with a few quotes or references made by  navigational experts commenting on the accomplishment of Worsley successfully landing.***
+
+***before writing, let me know if there are any ambiquities or uncertainties in this task and prompt you would like me to clarify.  And before writing reiterate what you will write about in 3-4 sentences to make sure we are aligned.***
 
 
-### The feat
+## The feat
 
 In April 1916, when Ernest Shackleton and five men pushed the 22-foot lifeboat James Caird off the beach at Elephant Island, they were not merely beginning an 800-nautical-mile ocean crossing. They were committing themselves to a navigational problem of extraordinary precision. Their destination, South Georgia, lay across the most violent waters on Earth. It is a mountainous island roughly 100 miles long, but from the west—the direction from which they approached—its effective “target width” was far smaller. Miss it by even a few dozen miles and the boat would be swept eastward into the South Atlantic with no realistic prospect of survival. Between South Georgia and South America lay hundreds more miles of storm-dominated ocean. There was no second chance.
 
